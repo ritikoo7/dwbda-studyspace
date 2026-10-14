@@ -246,7 +246,7 @@ GitHub Pages can host a static website from a GitHub repository, subject to GitH
 Your URL will generally look like this:
 
 ```text
-https://YOUR-USERNAME.github.io/dwbda-studyspace/
+https://github.com/ritikoo7/dwbda-studyspace
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username. If you choose a different repository name, update the URL accordingly.
